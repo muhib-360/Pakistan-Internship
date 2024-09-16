@@ -1,0 +1,1 @@
+This repository contains the completed tasks for the internship offered by Pakistan Internship in "Python Development". Task contains all exercises from Week 1 - Week 3. All files have .py entension compiled and made ready in VS Code.
